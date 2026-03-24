@@ -1,55 +1,50 @@
-Avaliação – Harmonias Cromáticas
-Disciplina: Programação Web
-Aluno(a): Amanda B. Rodrigues
-Data: 16/03/2026
-Valor total: 10,0 pontos
+ATIVIDADE – PESQUISA SOBRE FAMÍLIAS TIPOGRÁFICAS
 
-📝 Parte 1 – Conceitos (4,0 pontos)
-Responda de forma clara e objetiva:
-•	Cores Complementares (0,5)
-•	Definição correta (0,3)
-•	Explicação da posição no círculo cromático (0,2)
-•	Cores Análogas (0,5)
-•	Definição correta (0,3)
-•	Explicação da posição no círculo cromático (0,2)
-•	Cores Análogas + uma Complementar (0,5)
-•	Explicação correta da formação (0,3)
-•	Efeito visual descrito (0,2)
-•	Cores Análogas Relacionadas (0,5)
-•	Conceito correto (0,3)
-•	Diferença em relação às análogas simples (0,2)
-•	Cores Intercaladas (0,5)
-•	Definição correta (0,3)
-•	Efeito visual descrito (0,2)
-•	Cores Triádicas (0,5)
-•	Formação correta no círculo cromático (0,3)
-•	Característica visual (0,2)
-•	Cores em Quadrado (0,5)
-•	Explicação da distribuição (0,3)
-•	Resultado visual (0,2)
-•	Cores Tetraédricas (0,5)
-•	Conceito correto (0,3)
-•	Diferença para quadrado (0,2)
-•	Monocromia (0,5)
-•	Definição correta (0,3)
-•	Explicação de como criar variações (0,2)
-
-🎨 Parte 2 – Aplicação Prática (4,0 pontos)
-•	Desenho correto do círculo cromático (1,0)
-•	Organização e disposição correta das cores (0,5)
-•	Identificação das cores primárias, secundárias e terciárias (0,5)
-•	Aplicação das Harmonias (3,0)
-•	Uma combinação complementar corretamente representada (1,0)
-•	Uma combinação triádica corretamente representada (1,0)
-•	Uma combinação monocromática corretamente representada (1,0)
-
-🧐 Parte 3 – Análise Visual (2,0 pontos)
-Escolha uma peça visual (logotipo, embalagem, cartaz ou site) e responda:
-•	Identificação correta da harmonia utilizada (1,0)
-•	Justificativa coerente com base no círculo cromático (1,0)
-
-📊 Critérios Gerais de Avaliação
-•	Clareza na escrita
-•	Uso correto da terminologia
-•	Organização visual
-•	Capricho e apresentação
+Objetivo
+Compreender as principais famílias tipográficas, suas características e aplicações no design gráfico.
+________________________________________
+Parte 1 – Pesquisa Teórica (5,0 pontos)
+Pesquise e responda:
+Fontes Serifadas (1,0)
+•	O que são?
+•	Quais são suas principais características?
+•	Onde são mais utilizadas?
+•	Cite 3 exemplos.
+________________________________________
+Fontes Não Serifadas (Sans-serif) (1,0)
+•	O que são?
+•	Quais são suas características visuais?
+•	Em quais situações são mais usadas?
+•	Cite 3 exemplos.
+________________________________________
+ Fontes Monoespaçadas (1,0)
+•	O que significa monoespaçada?
+•	Onde esse tipo de fonte é mais utilizado?
+•	Cite 3 exemplos.
+________________________________________
+ Fontes Script (1,0)
+•	O que caracteriza esse estilo?
+•	Em que tipo de projeto é mais comum?
+•	Cite 3 exemplos.
+________________________________________
+ 
+Fontes Display (1,0)
+•	O que são fontes display?
+•	Para que tipo de material são indicadas?
+•	Cite 3 exemplos.
+________________________________________
+Parte 2 – Análise Visual (3,0 pontos)
+Escolha 1 fonte de cada família e:
+1.	Escreva a frase:
+“Design também comunica.”
+2.	Explique:
+o	Qual sensação a fonte transmite?
+o	Em que tipo de projeto ela seria adequada?
+o	Em que situação NÃO seria adequada?
+________________________________________
+ Parte 3 – Aplicação Prática (2,0 pontos)
+Crie um pequeno layout (pode ser no Canva, PowerPoint ou papel) contendo:
+•	Um título usando fonte Display ou Script
+•	Um subtítulo usando fonte Sans-serif
+•	Um parágrafo usando fonte Serifada
+•	Uma pequena simulação de código usando fonte Monoespaçada

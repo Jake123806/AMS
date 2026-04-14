@@ -64,3 +64,16 @@ nav a{
     color: var(--cor-texto);
     font-weight: bold;
 }
+
+nav{
+    margin-top: var(--espaco-padrao);
+}
+
+nav a:hover{
+    color: var(--cor-footer);
+}
+
+nav ul{
+    list-style: none;
+}
+
